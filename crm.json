@@ -1,4 +1,14 @@
 {
-  "customers": [],
+  "customers": [
+    {
+      "contacts": [
+        "Rss"
+      ],
+      "addresses": [
+        "Dyh"
+      ],
+      "notes": ""
+    }
+  ],
   "invoices": []
 }
